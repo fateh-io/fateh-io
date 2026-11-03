@@ -2,9 +2,9 @@
 
 ### Senior .NET Architect & Business Systems Engineer
 
-I design and build **business-critical systems** — ERP, CRM, e-commerce, and accounting platforms — for organizations that cannot afford for their software to fail. My job is not just to write code; it's to understand the business, choose the right architecture for its reality, and deliver systems that age well.
+I design and build **business-critical systems** — ERP, CRM, e-commerce, ticketing platforms, and financial/accounting software — for organizations that cannot afford for their software to fail. My job is not just to write code; it's to understand the business, choose the right architecture for its reality, and deliver systems that age well.
 
-Over a decade of hands-on work: leading engineering teams, modernizing legacy monoliths, and shipping systems that real businesses run on every day.
+Over a decade of hands-on experience leading engineering teams, modernizing legacy monoliths, and shipping enterprise systems. Because my commercial work is proprietary, most of it lives behind closed doors. **Here on GitHub, I share the architecture patterns, tools, and open-source templates I build in my own time.**
 
 ---
 
@@ -30,7 +30,7 @@ Every system I architect assumes the attacker is already inside the perimeter. A
 - **.NET / C#** — primary stack: ASP.NET MVC, Web API, WPF, EF Core, Dapper
 - **Python** — automation, tooling, Telegram bots, ML integration
 - **Architectural styles** — Multi-Layer, Modular Monolith, Clean Architecture, DDD (chosen per project, not per trend)
-- **SQL Server** — schema design, indexing, query tuning
+- **SQL Server** — schema design, indexing, query tuning, concurrency control
 
 **Frontend (past life, still valuable)**
 - **React, Angular** — delivered production apps for enterprises
@@ -47,7 +47,7 @@ Every system I architect assumes the attacker is already inside the perimeter. A
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Open-Source Projects
 
 *(The first two are in active development — follow along.)*
 
